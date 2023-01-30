@@ -2,7 +2,7 @@
 - 👀 I’m interested in powershell, python, and board games.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on an easy project with python or powershell
-- 📫 How to reach me can reach out to me via email michael@greatnevadatech.com
+- 📫 How to reach me can reach out to me via email michael@michaelhall.rocks
 
 <!---
 mikelv702/mikelv702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
